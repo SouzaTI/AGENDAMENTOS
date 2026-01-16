@@ -1,0 +1,253 @@
+/**
+ * estilos-calendario.css
+ *
+ * Folha de estilos para o calendário de agendamento do sistema de recebimento.
+ *
+ * FUNCIONALIDADE:
+ * - Define o layout, cores, espaçamentos e responsividade do calendário interativo.
+ * - Estiliza botões de navegação, células do calendário, modais e formulários.
+ * - Aplica cores distintas para dias bloqueados, parcialmente agendados, totalmente agendados e disponíveis.
+ * - Melhora a experiência visual e a usabilidade em desktop e mobile.
+ *
+ * DETALHES DO FUNCIONAMENTO:
+ * - Utiliza classes como .dia-bloqueado, .dia-parcial, .dia-total, .dia-disponivel para diferenciar o status dos dias.
+ * - Define estilos para modais, formulários e botões do sistema.
+ * - Garante que o calendário seja centralizado, com células grandes e interativas.
+ *
+ * REQUISITOS:
+ * - Deve ser utilizado em conjunto com o HTML e JS do calendário de agendamento.
+ * - Espera que os elementos HTML usem as classes e IDs definidos neste arquivo.
+ */
+  
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  #botaoGerenciamento {
+    text-align: center;
+  }
+  
+  /* Aumentar o tamanho do calendário */
+  .calendar-container {
+    max-width: 1000px; /* Aumenta a largura máxima */
+    margin: 0 auto;
+    background: #fff;
+    padding: 30px; /* Aumenta o padding */
+    border-radius: 15px; /* Bordas mais arredondadas */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Sombra mais suave */
+  }
+  
+  .month-year {
+    text-align: center;
+    font-size: 28px; /* Aumenta o tamanho da fonte */
+    font-weight: bold;
+    margin-bottom: 20px; /* Mais espaço abaixo */
+  }
+  
+  .calendar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px; /* Mais espaço abaixo */
+  }
+  
+  .nav-button {
+    background-color: #254c90;
+    color: white;
+    border: none;
+    padding: 10px 15px; /* Botões maiores */
+    border-radius: 8px; /* Bordas mais arredondadas */
+    cursor: pointer;
+    font-size: 18px; /* Fonte maior */
+  }
+  
+  .nav-button:hover {
+    background-color: #1e3a70;
+  }
+  
+  .calendar {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 10px;
+  }
+  
+  .calendar div {
+    padding: 15px;
+    text-align: center;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+  .calendar .disabled {
+    background-color: #ccc;
+    color: #666;
+    cursor: not-allowed;
+  }
+  
+  .calendar .available {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .calendar-weekdays {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px; /* Aumenta o tamanho da fonte */
+    margin-bottom: 10px;
+  }
+  
+  .calendar-row {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+  }
+  
+  .calendar-cell {
+    text-align: center;
+    padding: 20px; /* Aumenta o tamanho das células */
+    border: 1px solid #ddd;
+    font-size: 18px; /* Aumenta o tamanho da fonte */
+    border-radius: 8px; /* Bordas arredondadas */
+  }
+  
+  .empty-cell {
+    background-color: #f1f1f1; /* Cor mais clara para células vazias */
+  }
+  
+  .day-cell {
+    cursor: pointer;
+    background-color: #eaf4ff; /* Fundo azul claro */
+    transition: background-color 0.3s ease; /* Transição suave */
+  }
+  
+  .day-cell:hover {
+    background-color: #cce0ff; /* Fundo mais escuro ao passar o mouse */
+  }
+  
+  .day-cell:active {
+    background-color: #99c2ff; /* Fundo mais escuro ao clicar */
+  }
+  
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.6);
+  }
+  
+  .modal-content {
+    background-color: white;
+    margin: 10% auto;
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%;
+    max-width: 700px;
+  }
+  
+  .form-grid {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 15px;
+  }
+  
+  .form-grid > div {
+    flex: 1;
+  }
+  
+  label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  input, select, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 4px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .dia-bloqueado {
+    background-color: gray;
+    color: white;
+  }
+
+    .calendar-cell.dia-bloqueado:not(:has(img.bandeira-feriado)) {
+      pointer-events: none;
+  }
+
+  .dia-parcial {
+    background-color: orange;
+    color: white;
+  }
+
+  .dia-total {
+    background-color: red;
+    color: white;
+    pointer-events: none; /* Impede cliques */
+  }
+
+  .dia-disponivel {
+    background-color: green;
+    color: white;
+  }
+
+.bandeira-feriado {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+.calendar-cell.dia-bloqueado img.bandeira-feriado {
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+}
+.calendar-cell.dia-bloqueado {
+    /* Remove o padding só se tiver imagem dentro */
+    padding: 0 !important;
+}
+.calendar-cell.dia-bloqueado:not(:has(img.bandeira-feriado)) {
+    /* Para dias bloqueados sem imagem, mantém o padding padrão */
+    padding: 20px !important;
+}
+
+/* Permite clique em dias bloqueados/cheios para supervisor */
+.dia-bloqueado.supervisor-clicavel,
+.dia-total.supervisor-clicavel {
+    pointer-events: auto !important;
+    opacity: 1 !important;
+    filter: none !important;
+}

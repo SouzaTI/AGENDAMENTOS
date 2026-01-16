@@ -1,0 +1,2 @@
+[2025-09-16 14:29:40] ERRO: Erro de conexão com o banco de dados: SQLSTATE[HY000] [1045] Access denied for user 'seu_usuario'@'localhost' (using password: YES)
+[2025-09-16 14:29:42] ERRO: Erro de conexão com o banco de dados: SQLSTATE[HY000] [1045] Access denied for user 'seu_usuario'@'localhost' (using password: YES)

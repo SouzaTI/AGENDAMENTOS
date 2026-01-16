@@ -1,0 +1,37 @@
+const feriados = [
+  // === 2025 ===
+  { data: "2025-01-01", nome: "Confraternização Universal", tipo: "federal" },
+  { data: "2025-01-25", nome: "Aniversário de São Paulo", tipo: "municipal" },
+  { data: "2025-03-03", nome: "Carnaval", tipo: "federal" },
+  { data: "2025-03-04", nome: "Carnaval", tipo: "federal" },
+  { data: "2025-04-18", nome: "Sexta-feira Santa", tipo: "federal" },
+  { data: "2025-04-20", nome: "Páscoa", tipo: "federal" },
+  { data: "2025-04-21", nome: "Tiradentes", tipo: "federal" },
+  { data: "2025-05-01", nome: "Dia do Trabalho", tipo: "federal" },
+  { data: "2025-06-19", nome: "Corpus Christi", tipo: "federal" },
+  { data: "2025-07-09", nome: "Revolução Constitucionalista", tipo: "municipal" },
+  { data: "2025-09-07", nome: "Independência do Brasil", tipo: "federal" },
+  { data: "2025-10-12", nome: "Nossa Senhora Aparecida", tipo: "federal" },
+  { data: "2025-11-02", nome: "Finados", tipo: "federal" },
+  { data: "2025-11-15", nome: "Proclamação da República", tipo: "federal" },
+  { data: "2025-11-20", nome: "Dia da Consciência Negra", tipo: "municipal" },
+  { data: "2025-12-25", nome: "Natal", tipo: "federal" },
+
+  // === 2026 ===
+  { data: "2026-01-01", nome: "Confraternização Universal", tipo: "federal" },
+  { data: "2026-01-25", nome: "Aniversário de São Paulo", tipo: "municipal" },
+  { data: "2026-02-16", nome: "Carnaval", tipo: "federal" },
+  { data: "2026-02-17", nome: "Carnaval", tipo: "federal" },
+  { data: "2026-04-03", nome: "Sexta-feira Santa", tipo: "federal" },
+  { data: "2026-04-05", nome: "Páscoa", tipo: "federal" },
+  { data: "2026-04-21", nome: "Tiradentes", tipo: "federal" },
+  { data: "2026-05-01", nome: "Dia do Trabalho", tipo: "federal" },
+  { data: "2026-06-04", nome: "Corpus Christi", tipo: "federal" },
+  { data: "2026-07-09", nome: "Revolução Constitucionalista", tipo: "municipal" },
+  { data: "2026-09-07", nome: "Independência do Brasil", tipo: "federal" },
+  { data: "2026-10-12", nome: "Nossa Senhora Aparecida", tipo: "federal" },
+  { data: "2026-11-02", nome: "Finados", tipo: "federal" },
+  { data: "2026-11-15", nome: "Proclamação da República", tipo: "federal" },
+  { data: "2026-11-20", nome: "Dia da Consciência Negra", tipo: "municipal" },
+  { data: "2026-12-25", nome: "Natal", tipo: "federal" }
+];

@@ -1,0 +1,20 @@
+Array
+(
+    [dataAgendamento] => 2026-01-20
+    [nome_responsavel] => Josandra
+    [origem] => publica
+    [tipoCaminhao] => toco
+    [tipoCarga] => Batida
+    [tipoMercadoria] => Seca
+    [fornecedor] => NEUGEBAUER ALIMENTOS S A - Barueri
+    [comprador] => José Antonio
+    [quantidadePaletes] => 1
+    [quantidadeVolumes] => 44
+    [placa] => PWJ7F59
+    [quantidadeNotas] => 1
+    [nomeMotorista] => NILSON CAMILO MARRIEL
+    [cpfMotorista] => 24610187825
+    [numeroContato] => 11973121707
+    [tipoRecebimento] => Porte Pequeno
+    [notasFiscaisJSON] => ["74185"]
+)

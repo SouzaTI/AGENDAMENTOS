@@ -1,0 +1,25 @@
+Array
+(
+    [id] => 31
+    [status] => Em Análise
+)
+Array
+(
+    [id] => 31
+    [status] => Liberado
+)
+Array
+(
+    [id] => 35
+    [status] => Em Análise
+)
+Array
+(
+    [id] => 35
+    [status] => Em Análise
+)
+Array
+(
+    [id] => 35
+    [status] => Em Análise
+)

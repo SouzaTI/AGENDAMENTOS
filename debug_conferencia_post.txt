@@ -1,0 +1,5264 @@
+Array
+(
+    [agendamento_id] => 571
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 3564
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 568
+    [paletes_recebidos] => 5
+    [volumes_recebidos] => 600
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 534
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 155
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 606
+    [paletes_recebidos] => 3
+    [volumes_recebidos] => 90
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 604
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 800
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 605
+    [paletes_recebidos] => 27
+    [volumes_recebidos] => 2494
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 607
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1929
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 611
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 208
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 544
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 600
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 562
+    [paletes_recebidos] => 14
+    [volumes_recebidos] => 6450
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 613
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 613
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 620
+    [paletes_recebidos] => 1
+    [volumes_recebidos] => 89
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 612
+    [paletes_recebidos] => 22
+    [volumes_recebidos] => 1210
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 616
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 618
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1106
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 628
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 100
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 617
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 619
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 26
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 610
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 60
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 577
+    [paletes_recebidos] => 25
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 633
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 10
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 635
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 625
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 2
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 634
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 2000
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 582
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 850
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 636
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 2226
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 622
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1140
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 645
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1700
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 608
+    [paletes_recebidos] => 5
+    [volumes_recebidos] => 390
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 593
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 614
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 790
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 594
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 594
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 602
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 320
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 665
+    [paletes_recebidos] => 5
+    [volumes_recebidos] => 520
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 627
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 200
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 621
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 222
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 629
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1750
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 596
+    [paletes_recebidos] => 9
+    [volumes_recebidos] => 755
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 669
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 25
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 595
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 640
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 5755
+    [observacoes] => 
+    [nome_conferente] => JACKSON/ROBSON
+)
+Array
+(
+    [agendamento_id] => 598
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 658
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 198
+    [observacoes] => CHA ERVA DOCE 24DP A MAIS 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 670
+    [paletes_recebidos] => 8
+    [volumes_recebidos] => 1080
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 599
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 624
+    [paletes_recebidos] => 13
+    [volumes_recebidos] => 753
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 639
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 4660
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 653
+    [paletes_recebidos] => 8
+    [volumes_recebidos] => 812
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 657
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1405
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 646
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1630
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 661
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1957
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 648
+    [paletes_recebidos] => 545
+    [volumes_recebidos] => 3
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 689
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 40
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 660
+    [paletes_recebidos] => 10
+    [volumes_recebidos] => 1500
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 697
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 2250
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 561
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 160
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 662
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 70
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 672
+    [paletes_recebidos] => 5
+    [volumes_recebidos] => 540
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 696
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 1850
+    [observacoes] => SALSA DESIDRATADA VEIO CX C/24. E ESTAVA PEDINDO NO ROMANEIO CX C/12
+    [nome_conferente] => ROBSON/JACKSON
+)
+Array
+(
+    [agendamento_id] => 705
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 150
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 706
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 400
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 601
+    [paletes_recebidos] => 21
+    [volumes_recebidos] => 1947
+    [observacoes] => BEB. MARTATA CAJU 1L.  10 CAIXAS AVARIADAS 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 704
+    [paletes_recebidos] => 23
+    [volumes_recebidos] => 2490
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 647
+    [paletes_recebidos] => 13
+    [volumes_recebidos] => 883
+    [observacoes] => 
+    [nome_conferente] => ROBSON/JACKSON
+)
+Array
+(
+    [agendamento_id] => 707
+    [paletes_recebidos] => 7
+    [volumes_recebidos] => 410
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 714
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 713
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 200
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 716
+    [paletes_recebidos] => 4
+    [volumes_recebidos] => 413
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 691
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 204
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 649
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 35
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 673
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 80
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 644
+    [paletes_recebidos] => 48
+    [volumes_recebidos] => 15376
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 655
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 230
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 720
+    [paletes_recebidos] => 16
+    [volumes_recebidos] => 8960
+    [observacoes] => 
+    [nome_conferente] => Robson
+)
+Array
+(
+    [agendamento_id] => 712
+    [paletes_recebidos] => 6
+    [volumes_recebidos] => 378
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 676
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 30
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 712
+    [paletes_recebidos] => 6
+    [volumes_recebidos] => 378
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 709
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 164
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 698
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 60
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 724
+    [paletes_recebidos] => 16
+    [volumes_recebidos] => 400
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 722
+    [paletes_recebidos] => 20
+    [volumes_recebidos] => 1515
+    [observacoes] => 
+    [nome_conferente] => Robson
+)
+Array
+(
+    [agendamento_id] => 725
+    [paletes_recebidos] => 30
+    [volumes_recebidos] => 2229
+    [observacoes] => 
+    [nome_conferente] => Robson
+)
+Array
+(
+    [agendamento_id] => 721
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 2080
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 729
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 618
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 715
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 60
+    [observacoes] => 
+    [nome_conferente] => Robson
+)
+Array
+(
+    [agendamento_id] => 668
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 2210
+    [observacoes] => 
+    [nome_conferente] => Robson
+)
+Array
+(
+    [agendamento_id] => 719
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 23
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 664
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 4032
+    [observacoes] => 
+    [nome_conferente] => Robson
+)
+Array
+(
+    [agendamento_id] => 708
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 3190
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 708
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 3190
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 730
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 4080
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 735
+    [paletes_recebidos] => 10
+    [volumes_recebidos] => 1650
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 746
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 3
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 687
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 726
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 2100
+    [observacoes] => 
+    [nome_conferente] => Robson
+)
+Array
+(
+    [agendamento_id] => 731
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 950
+    [observacoes] => 
+    [nome_conferente] => Robson
+)
+Array
+(
+    [agendamento_id] => 682
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 3549
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 746
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1300
+    [observacoes] => 
+    [nome_conferente] => Robson
+)
+Array
+(
+    [agendamento_id] => 747
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 10
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 683
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 681
+    [paletes_recebidos] => 259
+    [volumes_recebidos] => 2550
+    [observacoes] => 
+    [nome_conferente] => Robson
+)
+Array
+(
+    [agendamento_id] => 740
+    [paletes_recebidos] => 22
+    [volumes_recebidos] => 1018
+    [observacoes] => 
+    [nome_conferente] => Robson
+)
+Array
+(
+    [agendamento_id] => 753
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 2
+    [observacoes] => 
+    [nome_conferente] => CICERO
+)
+Array
+(
+    [agendamento_id] => 755
+    [paletes_recebidos] => 3
+    [volumes_recebidos] => 606
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 685
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => ROBSON/JACKSON
+)
+Array
+(
+    [agendamento_id] => 742
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 99
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 723
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 48
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 744
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 200
+    [observacoes] => 
+    [nome_conferente] => Robson
+)
+Array
+(
+    [agendamento_id] => 727
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 2520
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 737
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 80
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 686
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 684
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => Robson
+)
+Array
+(
+    [agendamento_id] => 763
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 464
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 757
+    [paletes_recebidos] => 4
+    [volumes_recebidos] => 449
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 734
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 220
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 736
+    [paletes_recebidos] => 18
+    [volumes_recebidos] => 1299
+    [observacoes] => 
+    [nome_conferente] => Robson
+)
+Array
+(
+    [agendamento_id] => 758
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 150
+    [observacoes] => 
+    [nome_conferente] => Robson
+)
+Array
+(
+    [agendamento_id] => 756
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1865
+    [observacoes] => 
+    [nome_conferente] => Robson
+)
+Array
+(
+    [agendamento_id] => 759
+    [paletes_recebidos] => 4
+    [volumes_recebidos] => 375
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 768
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 3181
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 777
+    [paletes_recebidos] => 3
+    [volumes_recebidos] => 119
+    [observacoes] => 
+    [nome_conferente] => Robson
+)
+Array
+(
+    [agendamento_id] => 771
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 500
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 773
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 774
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 185
+    [observacoes] => 
+    [nome_conferente] => Robson
+)
+Array
+(
+    [agendamento_id] => 760
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 849
+    [observacoes] => BISCOITO FLOR DO VALE COQUINHO 300G QUANTIDADE MENOR 
+RECEBEMOS 194 CXS
+    [nome_conferente] => Robson
+)
+Array
+(
+    [agendamento_id] => 695
+    [paletes_recebidos] => 9
+    [volumes_recebidos] => 842
+    [observacoes] => COCO RALADO DUCOCO SECO 24X100G (FELTOU) FISCAL 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 778
+    [paletes_recebidos] => 10
+    [volumes_recebidos] => 3388
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 770
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 50
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 710
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 260
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 826
+    [paletes_recebidos] => 1
+    [volumes_recebidos] => 105
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 772
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 36
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 762
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 3701
+    [observacoes] => 
+    [nome_conferente] => ROBSON/LUANA
+)
+Array
+(
+    [agendamento_id] => 824
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 50
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 828
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 55
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 843
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 36
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 844
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 60
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 767
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 2694
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 853
+    [paletes_recebidos] => 30
+    [volumes_recebidos] => 4874
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 830
+    [paletes_recebidos] => 29
+    [volumes_recebidos] => 1518
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 842
+    [paletes_recebidos] => 7
+    [volumes_recebidos] => 488
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 829
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 405
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 874
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 40
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 831
+    [paletes_recebidos] => 30
+    [volumes_recebidos] => 4933
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 875
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1016
+    [observacoes] => 
+    [nome_conferente] => ROBSON/JACKSON
+)
+Array
+(
+    [agendamento_id] => 745
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 213
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 880
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 220
+    [observacoes] => FALTOU UMA CX DO DESODORANTE ROSAS E AMENDOAS, E VEIO 1 CX PROTEÍNA DO LEITE.
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 881
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 80
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 883
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 15
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 801
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 290
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 884
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 455
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 882
+    [paletes_recebidos] => 27
+    [volumes_recebidos] => 1976
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 850
+    [paletes_recebidos] => 16
+    [volumes_recebidos] => 790
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 852
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 40
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 851
+    [paletes_recebidos] => 16
+    [volumes_recebidos] => 900
+    [observacoes] => PASSOU 20 CAIXAS NISSIN DE CARNE FISCAL SILVANA INFORMADA
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 885
+    [paletes_recebidos] => 7
+    [volumes_recebidos] => 822
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 890
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 2899
+    [observacoes] => FALTOU 1 CX DO SALGADINHO LOBITS 35G GALETO.
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 834
+    [paletes_recebidos] => 8
+    [volumes_recebidos] => 600
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 892
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1450
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 871
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 2556
+    [observacoes] => 
+    [nome_conferente] => JACKSON.
+)
+Array
+(
+    [agendamento_id] => 891
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1415
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 886
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 500
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 897
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 100
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 894
+    [paletes_recebidos] => 30
+    [volumes_recebidos] => 4906
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 895
+    [paletes_recebidos] => 30
+    [volumes_recebidos] => 4890
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 902
+    [paletes_recebidos] => 3
+    [volumes_recebidos] => 810
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 889
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 441
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 854
+    [paletes_recebidos] => 14
+    [volumes_recebidos] => 3190
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 898
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 3780
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 900
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 550
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 893
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 16
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 931
+    [paletes_recebidos] => 36
+    [volumes_recebidos] => 1962
+    [observacoes] => 
+    [nome_conferente] => ROBSON/JACKSON
+)
+Array
+(
+    [agendamento_id] => 870
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 2466
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 944
+    [paletes_recebidos] => 30
+    [volumes_recebidos] => 4906
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 787
+    [paletes_recebidos] => 5
+    [volumes_recebidos] => 330
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 905
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 30
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 948
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 100
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 992
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 10
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 994
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 30
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 955
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 35
+    [observacoes] => fermento químico em pó 72x100g recebido frascos solto ,fiscal Silvana informada
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 993
+    [paletes_recebidos] => 3
+    [volumes_recebidos] => 35
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 910
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 174
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 998
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 380
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 999
+    [paletes_recebidos] => 12
+    [volumes_recebidos] => 960
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 952
+    [paletes_recebidos] => 6
+    [volumes_recebidos] => 610
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 928
+    [paletes_recebidos] => 12
+    [volumes_recebidos] => 470
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 996
+    [paletes_recebidos] => 9
+    [volumes_recebidos] => 725
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1005
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 4
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 997
+    [paletes_recebidos] => 38
+    [volumes_recebidos] => 3807
+    [observacoes] => ABSORVENTE ALWAYS SUAVE C/ABAS C/8 FALTOU VEIO (44 CXS) C/18 FISCAL  INFORMADO.
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1000
+    [paletes_recebidos] => 9
+    [volumes_recebidos] => 1309
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1009
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 4580
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1012
+    [paletes_recebidos] => 11
+    [volumes_recebidos] => 1650
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1013
+    [paletes_recebidos] => 30
+    [volumes_recebidos] => 61177
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 953
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1400
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1007
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 3104
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1004
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 690
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1011
+    [paletes_recebidos] => 14
+    [volumes_recebidos] => 3800
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1019
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 220
+    [observacoes] => 
+    [nome_conferente] => JACKSON.
+)
+Array
+(
+    [agendamento_id] => 1014
+    [paletes_recebidos] => 20
+    [volumes_recebidos] => 868
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1018
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 10
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1002
+    [paletes_recebidos] => 18
+    [volumes_recebidos] => 1430
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1025
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 15
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1017
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 220
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1003
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 48
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 984
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 200
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1023
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 2803
+    [observacoes] => FINI MARSHMALLOWS AZUL/BRANCO 80G (SOBROU 3 CAIXAS) FISCAL CLEITON INFORMADO.
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1006
+    [paletes_recebidos] => 13
+    [volumes_recebidos] => 1078
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1028
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 4618
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1034
+    [paletes_recebidos] => 4
+    [volumes_recebidos] => 420
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1037
+    [paletes_recebidos] => 4
+    [volumes_recebidos] => 381
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1039
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 196
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1040
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 30
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1033
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 30
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1031
+    [paletes_recebidos] => 3
+    [volumes_recebidos] => 360
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1035
+    [paletes_recebidos] => 1
+    [volumes_recebidos] => 100
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1015
+    [paletes_recebidos] => 12
+    [volumes_recebidos] => 2170
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1024
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 2895
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1029
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => rrrrrrrrrrr
+)
+Array
+(
+    [agendamento_id] => 1020
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 50
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1032
+    [paletes_recebidos] => 4
+    [volumes_recebidos] => 350
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1048
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 105
+    [observacoes] => DIVERGENCIA NA QUANTIDADE DOPRODUTO:CHICLE FESTBALL SUKEST TUTTI FRUTTI
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1062
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 234
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1054
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 3760
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1067
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 64
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1055
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1140
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1059
+    [paletes_recebidos] => 3
+    [volumes_recebidos] => 324
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1061
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 148
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1050
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 200
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1064
+    [paletes_recebidos] => 5
+    [volumes_recebidos] => 606
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1066
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 330
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1045
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 265
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1073
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 3000
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1071
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 3595
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1068
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 29
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1075
+    [paletes_recebidos] => 13
+    [volumes_recebidos] => 1552
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1043
+    [paletes_recebidos] => 7
+    [volumes_recebidos] => 965
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1084
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1600
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1044
+    [paletes_recebidos] => 6
+    [volumes_recebidos] => 380
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1085
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 120
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1038
+    [paletes_recebidos] => 4
+    [volumes_recebidos] => 384
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1087
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 275
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1086
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1072
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 591
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1088
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 1600
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1081
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 800
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1089
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 150
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1090
+    [paletes_recebidos] => 30
+    [volumes_recebidos] => 4605
+    [observacoes] => divergencia beb.nutrinectar 1 litro uva recebido 310 cxs quantidade a mais
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1091
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 2502
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1097
+    [paletes_recebidos] => 11
+    [volumes_recebidos] => 1394
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1095
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 800
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1074
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 250
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1057
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1060
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1104
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 120
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1056
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 2602
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1100
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 80
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1108
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1107
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1398
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1114
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 50
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1112
+    [paletes_recebidos] => 14
+    [volumes_recebidos] => 1343
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1098
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 120
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1113
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 12
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1109
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 4842
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1117
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 15
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1115
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 139
+    [observacoes] => recebido 50 cxs chicle poosh uva 200gr a mais
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1118
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 100
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1082
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1119
+    [paletes_recebidos] => 30
+    [volumes_recebidos] => 3116
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1120
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1560
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1103
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 5
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1065
+    [paletes_recebidos] => 4
+    [volumes_recebidos] => 555
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1078
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1116
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 35
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1125
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 168
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1102
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 300
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1134
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1145
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1111
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 105
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1139
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 237
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1122
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 96
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1110
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 800
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1144
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1200
+    [observacoes] => 
+    [nome_conferente] => LUANA /ROBSON
+)
+Array
+(
+    [agendamento_id] => 1145
+    [paletes_recebidos] => 14
+    [volumes_recebidos] => 1443
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1105
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 3800
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1148
+    [paletes_recebidos] => 12
+    [volumes_recebidos] => 600
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1152
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 60
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1156
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 65
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1127
+    [paletes_recebidos] => 10
+    [volumes_recebidos] => 1500
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1157
+    [paletes_recebidos] => 30
+    [volumes_recebidos] => 4842
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1162
+    [paletes_recebidos] => 30
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1163
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1920
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1168
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 46
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1166
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 4032
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1169
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 100
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1170
+    [paletes_recebidos] => 5
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1101
+    [paletes_recebidos] => 6
+    [volumes_recebidos] => 1080
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1126
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 27
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1176
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1167
+    [paletes_recebidos] => 16
+    [volumes_recebidos] => 1475
+    [observacoes] => DIVERGENCIA FARINHA DE ROSCA 500 G ,QUANTIDADE FALTANDO
+DIVERGENCIA TRIGO PARA KIBE 500G ,QUANTIDADE 1 A MAIS
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1141
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1174
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 20
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1130
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1178
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 3105
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1151
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1920
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1140
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1132
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => 44 cxs avariadas , informado ao fiscal Cleiton
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1160
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 107
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1177
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 720
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1183
+    [paletes_recebidos] => 12
+    [volumes_recebidos] => 1283
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1179
+    [paletes_recebidos] => 8
+    [volumes_recebidos] => 500
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1133
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 3618
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1190
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 25
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1131
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 2495
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1185
+    [paletes_recebidos] => 22
+    [volumes_recebidos] => 2943
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1192
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 2790
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1137
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1938
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1180
+    [paletes_recebidos] => 18
+    [volumes_recebidos] => 1570
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1194
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1198
+    [paletes_recebidos] => 1
+    [volumes_recebidos] => 88
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1200
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1634
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1195
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 2490
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1193
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 1680
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1187
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 300
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1138
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1203
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1199
+    [paletes_recebidos] => 4
+    [volumes_recebidos] => 448
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1155
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1196
+    [paletes_recebidos] => 3
+    [volumes_recebidos] => 200
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1201
+    [paletes_recebidos] => 3
+    [volumes_recebidos] => 5208
+    [observacoes] => HOUVE FALTA DE SETE PRODUTOS
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1154
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1205
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1
+    [observacoes] => 
+    [nome_conferente] => CICERO
+)
+Array
+(
+    [agendamento_id] => 1181
+    [paletes_recebidos] => 8
+    [volumes_recebidos] => 844
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1204
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 598
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1197
+    [paletes_recebidos] => 8
+    [volumes_recebidos] => 432
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1149
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 31
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1206
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1700
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1208
+    [paletes_recebidos] => 5
+    [volumes_recebidos] => 273
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1208
+    [paletes_recebidos] => 5
+    [volumes_recebidos] => 273
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1208
+    [paletes_recebidos] => 5
+    [volumes_recebidos] => 273
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1210
+    [paletes_recebidos] => 11
+    [volumes_recebidos] => 566
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1213
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 156
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1209
+    [paletes_recebidos] => 48
+    [volumes_recebidos] => 47328
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1211
+    [paletes_recebidos] => 11
+    [volumes_recebidos] => 726
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1207
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1202
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 31
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1184
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1187
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1215
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 148
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1220
+    [paletes_recebidos] => 6
+    [volumes_recebidos] => 816
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1216
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 4032
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1217
+    [paletes_recebidos] => 16
+    [volumes_recebidos] => 11196
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1189
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 2283
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1189
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 2283
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1153
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 154877
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1221
+    [paletes_recebidos] => 18
+    [volumes_recebidos] => 21500
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1231
+    [paletes_recebidos] => 12
+    [volumes_recebidos] => 1152
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1230
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1440
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1229
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 55
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1235
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1092
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1225
+    [paletes_recebidos] => 5
+    [volumes_recebidos] => 650
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1218
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 2834
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1227
+    [paletes_recebidos] => 14
+    [volumes_recebidos] => 770
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1233
+    [paletes_recebidos] => 49
+    [volumes_recebidos] => 2788
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1228
+    [paletes_recebidos] => 4
+    [volumes_recebidos] => 580
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1257
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 87
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1255
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1050
+    [observacoes] => NÃO VEIO TUCS CRUSH TRADICIONAL
+TUCS CRUSH CEBOLA / SALSA
+
+E TUCS CRUSH APENAS 20 CXS
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1252
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 1500
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1248
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 550
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1254
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1676
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1212
+    [paletes_recebidos] => 16
+    [volumes_recebidos] => 1200
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1251
+    [paletes_recebidos] => 25
+    [volumes_recebidos] => 1540
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1224
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 255
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1253
+    [paletes_recebidos] => 30
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1259
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 95
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1266
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 100
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1264
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1130
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1265
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 2040
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1256
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 180
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1258
+    [paletes_recebidos] => 15
+    [volumes_recebidos] => 1896
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1269
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 126
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1262
+    [paletes_recebidos] => 8
+    [volumes_recebidos] => 8328
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1270
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 345
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1267
+    [paletes_recebidos] => 13
+    [volumes_recebidos] => 723
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1214
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1750
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1244
+    [paletes_recebidos] => 10
+    [volumes_recebidos] => 2530
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1276
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1920
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1278
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 30
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1271
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 222
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1277
+    [paletes_recebidos] => 30
+    [volumes_recebidos] => 4823
+    [observacoes] => 
+    [nome_conferente] => LUANA
+)
+Array
+(
+    [agendamento_id] => 1236
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 280
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1272
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 11
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1268
+    [paletes_recebidos] => 30
+    [volumes_recebidos] => 1990
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1282
+    [paletes_recebidos] => 5
+    [volumes_recebidos] => 300
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1237
+    [paletes_recebidos] => 27
+    [volumes_recebidos] => 2130
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1286
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 3
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1281
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1676
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1245
+    [paletes_recebidos] => 7
+    [volumes_recebidos] => 650
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1304
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1610
+    [observacoes] => LOBITS QUEIJO 90G FALTOU VEIO (110 CAIXAS), FISCAL SILVANA INFORMAD.
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1305
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 60
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1307
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 2
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1302
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 95
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1300
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 7280
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1310
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 35
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1311
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => ROBSON/JACKSON
+)
+Array
+(
+    [agendamento_id] => 1299
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 32
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1312
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 2000
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1314
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => CICERO
+)
+Array
+(
+    [agendamento_id] => 1315
+    [paletes_recebidos] => 29
+    [volumes_recebidos] => 4927
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1318
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 150
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1319
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 220
+    [observacoes] => DIVERGENCIA : FALTOU SACO LIXO 30LT 59X62 FISCAL CLEITON INFORMADO
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1309
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 62
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1316
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 2295
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1323
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 11
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1322
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 174
+    [observacoes] => (MISTURA P/BOLO AIPIM, chegou 5 caixa de 380gr e no romaneio pediu de 400gr.)
+   -estava pedindo 1 caixa de refresco em pó laranja. Mas chegou 1 caixa mistura p/bolo laranja no lugar.  
+FISCAL CARLOS INFORMADO 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1317
+    [paletes_recebidos] => 00
+    [volumes_recebidos] => 249
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1320
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 100
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1320
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 100
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1324
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 90
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1290
+    [paletes_recebidos] => 12
+    [volumes_recebidos] => 2170
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1331
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 160
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1332
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 758
+    [observacoes] => 
+    [nome_conferente] => ROBSON/JACKSON
+)
+Array
+(
+    [agendamento_id] => 1349
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 10
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1340
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 10
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1329
+    [paletes_recebidos] => 10
+    [volumes_recebidos] => 1500
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1327
+    [paletes_recebidos] => 14
+    [volumes_recebidos] => 1000
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1336
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 2647
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1339
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 272
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1351
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 100
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1341
+    [paletes_recebidos] => 22
+    [volumes_recebidos] => 1030
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1352
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 161
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1328
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 119
+    [observacoes] => 
+    [nome_conferente] => CICERO
+)
+Array
+(
+    [agendamento_id] => 1355
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1700
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1334
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1400
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1359
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 50
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1338
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 130
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1368
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1019
+    [observacoes] => BISCOITO 7 CAPAS VEIO QUANTIDADE A MENOS ,INFORMADO FISCAL CARLOS
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1330
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1019
+    [observacoes] => BISCOITO 7 CAPAS QUANTIDADE FALTANDO , FISCAL CARLOS INFORMADO
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1368
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 173
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1308
+    [paletes_recebidos] => 10
+    [volumes_recebidos] => 840
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1335
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1300
+    [observacoes] => 
+    [nome_conferente] => CICERO
+)
+Array
+(
+    [agendamento_id] => 1375
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1372
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 54
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1360
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1130
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1350
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 7
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1371
+    [paletes_recebidos] => 16
+    [volumes_recebidos] => 2736
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1361
+    [paletes_recebidos] => 30
+    [volumes_recebidos] => 4424
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1370
+    [paletes_recebidos] => 3
+    [volumes_recebidos] => 420
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1374
+    [paletes_recebidos] => 5
+    [volumes_recebidos] => 200
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1325
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 960
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1379
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 155
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1378
+    [paletes_recebidos] => 25
+    [volumes_recebidos] => 2101
+    [observacoes] => 
+    [nome_conferente] => ROBSON/JACKSON
+)
+Array
+(
+    [agendamento_id] => 1373
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 150
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1346
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1342
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1366
+    [paletes_recebidos] => 21
+    [volumes_recebidos] => 2372
+    [observacoes] => 
+    [nome_conferente] => ROBSON/JACKSON
+)
+Array
+(
+    [agendamento_id] => 1389
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 195
+    [observacoes] => 
+    [nome_conferente] => CICERO
+)
+Array
+(
+    [agendamento_id] => 1348
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1347
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1345
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => ROBSON/JACKSON
+)
+Array
+(
+    [agendamento_id] => 1387
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 3399
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1391
+    [paletes_recebidos] => 18
+    [volumes_recebidos] => 1350
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1357
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 660
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1353
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 42
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1376
+    [paletes_recebidos] => 14
+    [volumes_recebidos] => 1655
+    [observacoes] => 
+    [nome_conferente] => ROBSON/JACKSON
+)
+Array
+(
+    [agendamento_id] => 1390
+    [paletes_recebidos] => 38
+    [volumes_recebidos] => 3939
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1381
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 7070
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1385
+    [paletes_recebidos] => 14
+    [volumes_recebidos] => 1120
+    [observacoes] => 
+    [nome_conferente] => JACKSON/ROBSON
+)
+Array
+(
+    [agendamento_id] => 1367
+    [paletes_recebidos] => 10
+    [volumes_recebidos] => 740
+    [observacoes] => 
+    [nome_conferente] => JACKSON/ROBSON
+)
+Array
+(
+    [agendamento_id] => 1388
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1260
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1364
+    [paletes_recebidos] => 18
+    [volumes_recebidos] => 1394
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1394
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1398
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 2632
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1383
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 2080
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1380
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 501
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1399
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 16
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1401
+    [paletes_recebidos] => 14
+    [volumes_recebidos] => 670
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1406
+    [paletes_recebidos] => 4
+    [volumes_recebidos] => 260
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1365
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1384
+    [paletes_recebidos] => 25
+    [volumes_recebidos] => 2000
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1404
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 124
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1412
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 60
+    [observacoes] => PRODUTOS DIFERENTES DA NOTA CÓDIGO DE BARRAS CADASTRADOS ,FISCAL CLEITON INFORMADO
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1402
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 100
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1408
+    [paletes_recebidos] => 30
+    [volumes_recebidos] => 4671
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1407
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 25
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1395
+    [paletes_recebidos] => 27
+    [volumes_recebidos] => 24360
+    [observacoes] => CHOOP SPALTER BEA RED FALTOU 
+
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1409
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1415
+    [paletes_recebidos] => 23
+    [volumes_recebidos] => 1725
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1393
+    [paletes_recebidos] => 22
+    [volumes_recebidos] => 1222
+    [observacoes] => NISSIN GALINHA CAIPIRA 85G, (VEIO 100CXS A MAIS).  FISCAL CLEITON INFORMADO.
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1392
+    [paletes_recebidos] => 22
+    [volumes_recebidos] => 1222
+    [observacoes] => NISSIN GALINHA CAIPIRA 85G, (VEIO 100CXS A MAIS).  FISCAL CLEITON INFORMADO.
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1421
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 100
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1418
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 3468
+    [observacoes] => 
+    [nome_conferente] => ROBSON/JACKSON
+)
+Array
+(
+    [agendamento_id] => 1426
+    [paletes_recebidos] => 10
+    [volumes_recebidos] => 1093
+    [observacoes] => azeitona com caroço 30 x 80g sobrou 28 cxs
+azeitona fatiada 80g faltou , veio 17 cxs
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1427
+    [paletes_recebidos] => 1
+    [volumes_recebidos] => 102
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1396
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 15
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1429
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 370
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1410
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 2000
+    [observacoes] => LOBITS 40 G SABORES 
+REQUEIJÃO 7 CXS
+PRESUNTO 2 CXS
+CHURRASCO 9 CXS
+
+CAIXAS MOLHADAS
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1428
+    [paletes_recebidos] => 30
+    [volumes_recebidos] => 4850
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1413
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 1500
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1414
+    [paletes_recebidos] => 3
+    [volumes_recebidos] => 180
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1420
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1200
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1419
+    [paletes_recebidos] => 30
+    [volumes_recebidos] => 6629
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1423
+    [paletes_recebidos] => 30
+    [volumes_recebidos] => 4826
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1397
+    [paletes_recebidos] => 18
+    [volumes_recebidos] => 2421
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1422
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 500
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1439
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1437
+    [paletes_recebidos] => 31
+    [volumes_recebidos] => 4409
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1442
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 500
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1425
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 75
+    [observacoes] => NO AGENDAMENTO INFORMA. CARGA PALETIZADA, POREM VEIO CARGA BATIDA.
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1405
+    [paletes_recebidos] => 13
+    [volumes_recebidos] => 715
+    [observacoes] => 
+    [nome_conferente] => ROBSON/JACKSON
+)
+Array
+(
+    [agendamento_id] => 1448
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 375
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1436
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 54
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1445
+    [paletes_recebidos] => 10
+    [volumes_recebidos] => 1088
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1434
+    [paletes_recebidos] => 01
+    [volumes_recebidos] => 69
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1441
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 45
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1449
+    [paletes_recebidos] => 12
+    [volumes_recebidos] => 1155
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1411
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 328
+    [observacoes] => obs.. a carga veio batida no agendamento esta paletizada.
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1454
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 6800
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1456
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1830
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1447
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 190
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1443
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 10 CXS AVARIADAS . BEB MARATÁ UVA 1L
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1444
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 19 CXS AVARIADAS BEB.MARATÁ 1L LARANJA
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1471
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 2310
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1467
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 2310
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1471
+    [paletes_recebidos] => 14
+    [volumes_recebidos] => 1260
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1459
+    [paletes_recebidos] => 6
+    [volumes_recebidos] => 1078
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1453
+    [paletes_recebidos] => 14
+    [volumes_recebidos] => 7840
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1479
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 405
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1475
+    [paletes_recebidos] => 12
+    [volumes_recebidos] => 2059
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1458
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 250
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1482
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 750
+    [observacoes] => CAIXAS AVARIADAS,  LOBITS DE 200GR (PRESUNTO 2 CXS). (REQUEIJÃO 18 CSX). (CHURRASCO 6 CXS). 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1433
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 2214
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1430
+    [paletes_recebidos] => 25
+    [volumes_recebidos] => 12584
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1431
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1461
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 9
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1432
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1484
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 3700
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1488
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 2384
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1485
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 8550
+    [observacoes] => NÃO VEIO BATATA PALHA ESTRA FINA 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1472
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 74
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1487
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 2000
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1486
+    [paletes_recebidos] => 1950
+    [volumes_recebidos] => 26
+    [observacoes] => 15 cxs avariada beb. marata uva 1L
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1499
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 49
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1490
+    [paletes_recebidos] => 9
+    [volumes_recebidos] => 450
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1492
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 4639
+    [observacoes] => MARATA UVA 200ML PASSOU 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1489
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 4858
+    [observacoes] => MARATA GOIABA 200ML PASSOU 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1501
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 40
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1497
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1440
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1498
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 120
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1494
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 2080
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1478
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 6070
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1468
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 3519
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1451
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1483
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1450
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1470
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 15474
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1452
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1464
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => BEB. MARATA CAJU 1L (7 CXS AVARIADA) 
+    [nome_conferente] => CICERO
+)
+Array
+(
+    [agendamento_id] => 1495
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 2080
+    [observacoes] => 
+    [nome_conferente] => CICERO
+)
+Array
+(
+    [agendamento_id] => 1509
+    [paletes_recebidos] => 54
+    [volumes_recebidos] => 2742
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1462
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1512
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1463
+    [paletes_recebidos] => 1800
+    [volumes_recebidos] => 24
+    [observacoes] => BEB. MARATA CAJA 1L (23 CXS AVARIADA)
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1515
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1513
+    [paletes_recebidos] => 13
+    [volumes_recebidos] => 684
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1514
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 3666
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1511
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1600
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1496
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1920
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1518
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1620
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1510
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 348
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1477
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 2337
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1505
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 155
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1517
+    [paletes_recebidos] => 23
+    [volumes_recebidos] => 6350
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1506
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1491
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 760
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1522
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 200
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1519
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 474
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1532
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 1460
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1542
+    [paletes_recebidos] => 9
+    [volumes_recebidos] => 274
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1543
+    [paletes_recebidos] => 16
+    [volumes_recebidos] => 1200
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1547
+    [paletes_recebidos] => 350
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1531
+    [paletes_recebidos] => 160
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1550
+    [paletes_recebidos] => 7
+    [volumes_recebidos] => 560
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1549
+    [paletes_recebidos] => 7
+    [volumes_recebidos] => 560
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1548
+    [paletes_recebidos] => 14
+    [volumes_recebidos] => 1120
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1525
+    [paletes_recebidos] => 14
+    [volumes_recebidos] => 800
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1541
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 53
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1493
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1504
+    [paletes_recebidos] => 10
+    [volumes_recebidos] => 1350
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1527
+    [paletes_recebidos] => 12
+    [volumes_recebidos] => 960
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1526
+    [paletes_recebidos] => 12
+    [volumes_recebidos] => 960
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1557
+    [paletes_recebidos] => 12
+    [volumes_recebidos] => 1260
+    [observacoes] => (OREGANO 12X08G VEIO 41 CXS E FOI COLETADO 40 CXS).
+(CALDO DE GALINHA PÓ 12X45G FALTOU VEIO 19 CXS ). 
+    [nome_conferente] => ROBSON/JACKSON
+)
+Array
+(
+    [agendamento_id] => 1562
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 5
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1527
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1920
+    [observacoes] => FOI ENVIADO UM PIX DE $700 POREM SÃO 24 PALETE QUE DA $600
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1554
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 13
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1556
+    [paletes_recebidos] => 16
+    [volumes_recebidos] => 2381
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1553
+    [paletes_recebidos] => 300
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1546
+    [paletes_recebidos] => 462
+    [volumes_recebidos] => 3
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1563
+    [paletes_recebidos] => 3
+    [volumes_recebidos] => 300
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1564
+    [paletes_recebidos] => 9
+    [volumes_recebidos] => 2167
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1566
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1567
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 60
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1566
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1523
+    [paletes_recebidos] => 1
+    [volumes_recebidos] => 120
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1507
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 132
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1552
+    [paletes_recebidos] => 43
+    [volumes_recebidos] => 52290
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1534
+    [paletes_recebidos] => 13
+    [volumes_recebidos] => 1040
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1533
+    [paletes_recebidos] => 13
+    [volumes_recebidos] => 1040
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1536
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 2080
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1571
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 27
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1580
+    [paletes_recebidos] => 6
+    [volumes_recebidos] => 353
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1535
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 2080
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1581
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1550
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1578
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 47886
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1560
+    [paletes_recebidos] => 21
+    [volumes_recebidos] => 1944
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1577
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 148854
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1582
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1260
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1568
+    [paletes_recebidos] => 19
+    [volumes_recebidos] => 725
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1584
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1579
+    [paletes_recebidos] => 15
+    [volumes_recebidos] => 1081
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1537
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1920
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1538
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 2080
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1585
+    [paletes_recebidos] => 5
+    [volumes_recebidos] => 220
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1586
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 2855
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1583
+    [paletes_recebidos] => 22
+    [volumes_recebidos] => 1422
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1540
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1920
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1539
+    [paletes_recebidos] => 18
+    [volumes_recebidos] => 1440
+    [observacoes] => 
+    [nome_conferente] => ROBSON
+)
+Array
+(
+    [agendamento_id] => 1569
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 2240
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1588
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1230
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1587
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 2192
+    [observacoes] => TNT SUOR 70G FALTOU VEIO 74 CXS  FISCAL JHONY INFORMADO
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1559
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1951
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1573
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1920
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1591
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 16
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1592
+    [paletes_recebidos] => 9
+    [volumes_recebidos] => 1386
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1590
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 5050
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1575
+    [paletes_recebidos] => 12
+    [volumes_recebidos] => 960
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1574
+    [paletes_recebidos] => 12
+    [volumes_recebidos] => 960
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1597
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1920
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1595
+    [paletes_recebidos] => 6
+    [volumes_recebidos] => 1419
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1602
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 3
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1600
+    [paletes_recebidos] => 30
+    [volumes_recebidos] => 2907
+    [observacoes] => SEGUE AS DIVERGENCIAS NOS SEGUINTES PRODUTOS  (POLVILHO AZEDO, FALTOU VEIO 28 FD).  (FAROFA 250G CARNE SECA, FALTOU VEIO 19 FD).  (FAROFA 250G PICANTE, PASSOU VEIO 11 FD).  
+(AMENDOIM BRANCO 400G RUNNER, FALTOU VEIO 47 FD). (FAROFA KISABOR 400G TRADICIONAL, FALTOU VEIO 680 FD).  (FAROFA 250G CARNE SECA 1 FARDO AVARIADO).    FISCAL CARLOS INFORMADO.
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1599
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 3816
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1603
+    [paletes_recebidos] => 25
+    [volumes_recebidos] => 3319
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1607
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1606
+    [paletes_recebidos] => 1200
+    [volumes_recebidos] => 8
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1608
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 25
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1611
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 4530
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1604
+    [paletes_recebidos] => 5
+    [volumes_recebidos] => 700
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1609
+    [paletes_recebidos] => 7
+    [volumes_recebidos] => 746
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1610
+    [paletes_recebidos] => 10
+    [volumes_recebidos] => 760
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1615
+    [paletes_recebidos] => 23
+    [volumes_recebidos] => 5404
+    [observacoes] => DIVERGENCIAS (FINI RATO PASSOU 74 CX)   (FINI SAPO FALTOU VEIO 274 CX )   (FINI UVA BRILHO NÃO VEIO)    FISCAL CLEITON INFORMADO 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1626
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 940
+    [observacoes] => DIVERGENCIAS.  (TUC'S ORIGINAL VEIO 1 CX A MAIS, TOTAL 311).  (TUC'S PRESUNTO FALTOU VEIO 9 CXS).  FISCAL CARLOS INFORMADO
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1630
+    [paletes_recebidos] => 1
+    [volumes_recebidos] => 120
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1632
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 16
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1617
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 318
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1623
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 25
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1634
+    [paletes_recebidos] => 7
+    [volumes_recebidos] => 835
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1628
+    [paletes_recebidos] => 29
+    [volumes_recebidos] => 1400
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)

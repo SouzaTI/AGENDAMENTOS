@@ -59,8 +59,19 @@ function verificarLimiteHoras($data, $tipoCaminhao, $tipoCarga, $placa, $nomeRes
     $agendamentos = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
     $totalMinutos = 0;
+    $contadorBatida = 0;
+
     foreach ($agendamentos as $ag) {
         $totalMinutos += minutosPorTipo($ag['tipo_caminhao'], $ag['tipo_carga']) * $ag['total'];
+        
+        // 2. Se a carga no banco for 'batida', somamos ao contador
+        if (strtolower($ag['tipo_carga']) === 'batida') {
+            $contadorBatida += $ag['total'];
+        }
+    }
+
+    if (strtolower($tipoCarga) === 'batida' && $contadorBatida >= 2) {
+        return "Limite de cargas tipo BATIDA atingido para este dia (máximo 2).";
     }
 
     // Trava: placa já agendada no mesmo dia
@@ -174,8 +185,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $resultadoLimiteHoras = verificarLimiteHoras($dataAgendamento, $tipoCaminhao, $tipoCarga, $placa, $nomeResponsavel, $pdo);
 
     if ($resultadoLimiteHoras !== true) {
-        echo json_encode(['success' => false, 'message' => $resultadoLimiteHoras]);
-        exit();
+        echo json_encode([
+            'success' => false, 
+            'message' => $resultadoLimiteHoras // Aqui vai a frase: "Limite de cargas tipo BATIDA..."
+        ]);
+        exit(); // VITAL: Isso impede que o código continue e chegue no INSERT ou no "Sucesso" final
     }
 
     // Bloqueio de duplicidade total (todos os campos principais)

@@ -5262,3 +5262,516 @@ Array
     [observacoes] => 
     [nome_conferente] => JACKSON
 )
+Array
+(
+    [agendamento_id] => 1631
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 300
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1612
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1167
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1638
+    [paletes_recebidos] => 8
+    [volumes_recebidos] => 530
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1643
+    [paletes_recebidos] => 15
+    [volumes_recebidos] => 1470
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1635
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 230
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1644
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1646
+    [paletes_recebidos] => 2
+    [volumes_recebidos] => 180
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1645
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 1780
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1624
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 2500
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1629
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 2600
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1637
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 3632
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1651
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 150
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1641
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 10000
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1648
+    [paletes_recebidos] => 3
+    [volumes_recebidos] => 355
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1652
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 2007
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1640
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 44
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1618
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1910
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1625
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => 12 CAIXAS DE SUCO MARATA GOIABA 1L AVARIADA 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1613
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1655
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1920
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1653
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 1950
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1654
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1656
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1661
+    [paletes_recebidos] => 1950
+    [volumes_recebidos] => 26
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1667
+    [paletes_recebidos] => 24
+    [volumes_recebidos] => 1800
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1669
+    [paletes_recebidos] => 6
+    [volumes_recebidos] => 650
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1649
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 55
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1660
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 270
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1658
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 30
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1666
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 5
+    [observacoes] => (EXTENSAO 10mts NAO VEIO).  NO LUGAR DELA VEIO A DE 3mts  VEIO 1CX C/40DP
+
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1642
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 9960
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1668
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1659
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 5745
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1678
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 5
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1664
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 1911
+    [observacoes] => LAVA ROUPAS LIQUIDO SUPREMA MULTI AZUL 1L NÃO VEIO NENHUMA CAIXA 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1686
+    [paletes_recebidos] => 3
+    [volumes_recebidos] => 646
+    [observacoes] => (SPALTER BEAR DRAFT WHITE BRANCO 600ML FALTOU) 
+(SPALTER BEAR DRAFT ABACAXI 600ML FALTOU)
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1689
+    [paletes_recebidos] => 4
+    [volumes_recebidos] => 763
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1670
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 190
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1692
+    [paletes_recebidos] => 10
+    [volumes_recebidos] => 536
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1691
+    [paletes_recebidos] => 28
+    [volumes_recebidos] => 2240
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1688
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 187
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1687
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 100
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1687
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 100
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1690
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 530
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1681
+    [paletes_recebidos] => 10
+    [volumes_recebidos] => 23446
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1663
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 91
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1696
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1696
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1697
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1701
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1682
+    [paletes_recebidos] => 4
+    [volumes_recebidos] => 340
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1700
+    [paletes_recebidos] => 1180
+    [volumes_recebidos] => 16
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1685
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 258
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1695
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 118
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1694
+    [paletes_recebidos] => 26
+    [volumes_recebidos] => 2814
+    [observacoes] => DIVERGENCIAS 
+(FARINHA DE AVEIA 165G PASSO 1 CX. VEIO 21 CXS)
+(MOLHO P/SALADA MOSTARDA E MEL 40G. PASSO 1 CX VEIO 6 CXS)
+(AROMA DE COCO 30ML FALTOU. VEIO 16 CXS)
+(AROMA DE AMENDOA 30ML. NAO ESTA NO ROMANEIO)
+(MILHO P/PIPOCA 400G PASSOU 2 FARDOS. VEIO 302 FARDO)       FISCAL CLEITON  INFORMADO
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1671
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 75
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1693
+    [paletes_recebidos] => 4
+    [volumes_recebidos] => 200
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1708
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => NÃO FOI CONFERIDO ESTA NO P1
+
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1698
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1704
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 5865
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1709
+    [paletes_recebidos] => 5
+    [volumes_recebidos] => 345
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1683
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1100
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1710
+    [paletes_recebidos] => 465
+    [volumes_recebidos] => 4
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)

@@ -870,20 +870,34 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function enviarAgendamento(forcar = false) {
-      let dataToSend = new FormData(formElement);
+      // Corrigido de formElement para form
+      let dataToSend = new FormData(form); 
       if (forcar) dataToSend.set('forcarAgendamento', '1');
+
       fetch('processar_agendamento.php', {
         method: 'POST',
         body: dataToSend
       })
       .then(r => r.json())
       .then(res => {
+        // Agora ele verifica se o PHP mandou success true ou false
         if (res.success) {
           alert('Agendamento realizado com sucesso!');
           location.reload();
         } else {
-          alert(res.message || 'Erro ao agendar.');
+          // Aqui ele vai mostrar a sua mensagem: "Limite de cargas tipo BATIDA atingido..."
+          alert('Atenção: ' + res.message);
+          
+          // Reabilita o botão para o usuário poder tentar de novo (trocando o dia ou a carga)
+          const btn = form.querySelector('button[type="submit"]');
+          if (btn) btn.disabled = false;
         }
+      })
+      .catch(err => {
+        console.error('Erro técnico:', err);
+        alert('Erro de comunicação com o servidor. Tente novamente.');
+        const btn = form.querySelector('button[type="submit"]');
+        if (btn) btn.disabled = false;
       });
     }
 

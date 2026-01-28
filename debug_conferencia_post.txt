@@ -5775,3 +5775,11 @@ Array
     [observacoes] => 
     [nome_conferente] => JACKSON
 )
+Array
+(
+    [agendamento_id] => 1684
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1652
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)

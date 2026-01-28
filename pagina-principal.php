@@ -856,15 +856,19 @@ img[alt="Logo Comercial Souza"] {
       </select>
 
       <!-- Antes do botão de confirmação -->
-<?php if ($_SESSION['tipoUsuario'] === 'supervisor'): ?>
-  <button type="button" id="btnVerAgendamentosDia" style="background:#254c90; color:#fff; margin-bottom:10px;">
-    Ver Agendamentos do Dia
-  </button>
-<?php endif; ?>
+        <?php if ($_SESSION['tipoUsuario'] === 'supervisor'): ?>
+          <button type="button" id="btnVerAgendamentosDia" style="background:#254c90; color:#fff; margin-bottom:10px;">
+            Ver Agendamentos do Dia
+          </button>
+        <?php endif; ?>
 
-<button type="submit">Confirmar Agendamento</button>
+        <?php if ($_SESSION['tipoUsuario'] !== 'operador_agenda'): ?>
+            <button type="submit">Confirmar Agendamento</button>
+        <?php endif; ?>
     </form>
   </div>
+
+  
 </div>
 
    <!-- Botão para Visão dos Agendamentos -->

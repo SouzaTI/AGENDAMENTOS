@@ -20,7 +20,6 @@ const feriados = [
   // === 2026 ===
   { data: "2026-01-01", nome: "Confraternização Universal", tipo: "federal" },
   { data: "2026-01-25", nome: "Aniversário de São Paulo", tipo: "municipal" },
-  { data: "2026-02-16", nome: "Carnaval", tipo: "federal" },
   { data: "2026-02-17", nome: "Carnaval", tipo: "federal" },
   { data: "2026-04-03", nome: "Sexta-feira Santa", tipo: "federal" },
   { data: "2026-04-05", nome: "Páscoa", tipo: "federal" },

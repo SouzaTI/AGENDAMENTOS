@@ -1,20 +1,20 @@
 Array
 (
-    [dataAgendamento] => 2026-01-29
-    [nome_responsavel] => matheus.cabral
+    [dataAgendamento] => 2026-02-11
+    [nome_responsavel] => Sergio
     [origem] => publica
-    [tipoCaminhao] => truck
+    [tipoCaminhao] => toco
     [tipoCarga] => Batida
-    [tipoMercadoria] => TESTE
-    [fornecedor] => TESTE
-    [comprador] => admin
-    [quantidadePaletes] => 15
-    [quantidadeVolumes] => 2000
-    [placa] => COL0823
+    [tipoMercadoria] => Whey protein 
+    [fornecedor] => Italac 
+    [comprador] => Marlon 
+    [quantidadePaletes] => 0
+    [quantidadeVolumes] => 840
+    [placa] => QUN3E39
     [quantidadeNotas] => 1
-    [nomeMotorista] => TESTE
-    [cpfMotorista] => 57895564823
-    [numeroContato] => 11 98519-0512
+    [nomeMotorista] => Sergio
+    [cpfMotorista] => 26909730810
+    [numeroContato] => 11969198523
     [tipoRecebimento] => Porte Pequeno
-    [notasFiscaisJSON] => ["1"]
+    [notasFiscaisJSON] => ["000"]
 )

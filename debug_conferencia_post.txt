@@ -5783,3 +5783,155 @@ Array
     [observacoes] => 
     [nome_conferente] => JACKSON
 )
+Array
+(
+    [agendamento_id] => 1714
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 630
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1714
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 630
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1714
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 630
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1707
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 780
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1712
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 18
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1712
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 18
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1716
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 200
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1675
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1700
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1675
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1700
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1705
+    [paletes_recebidos] => 1300
+    [volumes_recebidos] => 0
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1702
+    [paletes_recebidos] => 5
+    [volumes_recebidos] => 740
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1702
+    [paletes_recebidos] => 5
+    [volumes_recebidos] => 740
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1706
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 1401
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1729
+    [paletes_recebidos] => 29
+    [volumes_recebidos] => 2338
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1729
+    [paletes_recebidos] => 29
+    [volumes_recebidos] => 2338
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1715
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 0
+    [observacoes] => VALIDADE PROXIMA. 08/05/2026 E 16/04/2026 NÃO FOI RECEBIDO, FISCAL CLEITON E COMPRADOR MARLON FORAM INFORMADO
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1724
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 267
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1717
+    [paletes_recebidos] => 18
+    [volumes_recebidos] => 1430
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)
+Array
+(
+    [agendamento_id] => 1731
+    [paletes_recebidos] => 0
+    [volumes_recebidos] => 100
+    [observacoes] => 
+    [nome_conferente] => JACKSON
+)

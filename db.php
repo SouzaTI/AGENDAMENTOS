@@ -1,33 +1,31 @@
 <?php
 /**
  * db.php
- *
- * Script de conexão PDO com o banco de dados MySQL do sistema de recebimento.
- *
- * FUNCIONALIDADE:
- * - Define os parâmetros de conexão (host, nome do banco, usuário, senha).
- * - Cria uma instância PDO para acesso ao banco de dados.
- * - Configura o modo de erro do PDO para exceção.
- * - Em caso de falha na conexão, exibe mensagem de erro e encerra o script.
- *
- * DETALHES DO FUNCIONAMENTO:
- * - Utiliza try/catch para capturar possíveis erros de conexão.
- * - O objeto $pdo é utilizado em todo o sistema para executar queries SQL de forma segura.
- *
- * REQUISITOS:
- * - Requer que o MySQL esteja rodando e o banco de dados 'recebimento' esteja criado.
- * - Usuário e senha devem estar corretos conforme configuração do ambiente.
+ * Conexão PDO segura usando variáveis de ambiente (.env)
  */
 
-$host = '127.0.0.1:3307';
-$dbname = 'recebimento'; // Nome do banco de dados
-$username = 'root'; // Usuário do banco
-$password = ''; // Senha do banco (deixe vazio se estiver usando XAMPP padrão)
+// Pega o caminho absoluto da pasta onde o db.php está
+$envPath = __DIR__ . '/.env';
+
+// Verifica se o arquivo .env existe e lê as variáveis
+if (file_exists($envPath)) {
+    $envVariables = parse_ini_file($envPath);
+    
+    // Pega estritamente o que está no arquivo .env (sem fallbacks/plano B)
+    $host     = $envVariables['DB_HOST'];
+    $dbname   = $envVariables['DB_NAME'];
+    $username = $envVariables['DB_USER'];
+    $password = $envVariables['DB_PASS'];
+} else {
+    // Se o arquivo não existir, mata a execução na hora
+    die("Erro crítico: Arquivo .env não encontrado. Crie o arquivo na raiz do projeto.");
+}
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 } catch (PDOException $e) {
+    // Falha rápida se as credenciais do .env estiverem erradas
     die("Erro ao conectar ao banco de dados: " . $e->getMessage());
 }
 ?>

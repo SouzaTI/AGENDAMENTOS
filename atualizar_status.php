@@ -50,6 +50,17 @@ if (!empty($id) && isset($status)) {
     $stmt->execute([':id' => $id]);
     $agendamentoStatusAtual = $stmt->fetchColumn();
 
+    // ==========================================
+    // ESCUDO CONTRA REQUISIÇÕES DUPLICADAS DO JS
+    // ==========================================
+    if ($agendamentoStatusAtual === $status) {
+        // Se o status não mudou, o navegador tá gaguejando. 
+        // A gente devolve sucesso (pra não travar a tela) e sai sem gravar log!
+        echo json_encode(['success' => true]);
+        exit;
+    }
+    // ==========================================
+
     // Atualizar o status no banco de dados
     $sql = "UPDATE agendamentos SET status = :status WHERE id = :id";
     $stmt = $pdo->prepare($sql);

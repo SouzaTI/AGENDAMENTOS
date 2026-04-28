@@ -6,7 +6,7 @@
 session_start();
 require 'db.php';
 
-$idsPermitidos = [3, 6, 8];
+$idsPermitidos = [1, 3, 6, 8];
 
 // Lógica de Logoff
 if (isset($_GET['logout'])) {

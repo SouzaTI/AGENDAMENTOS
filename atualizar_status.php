@@ -29,6 +29,7 @@ error_reporting(E_ALL);
 
 date_default_timezone_set('America/Sao_Paulo');
 require 'db.php';
+require_once __DIR__ . '/utils/logger.php'; //
 session_start();
 
 $user = $_SESSION['usuario'] ?? '';
@@ -110,6 +111,13 @@ if (!empty($id) && isset($status)) {
         $stmt = $pdo->prepare("UPDATE agendamentos SET chegada_nf = NOW() WHERE id = :id");
         $stmt->execute([':id' => $id]);
     } 
+
+    registrar_log(
+        $user, 
+        'Atualizou Status', 
+        'atualizar_status.php', 
+        "Agendamento ID: $id | De: [$agendamentoStatusAtual] Para: [$status]"
+    );
 
     error_log("DEBUG: Atualizando status para: [" . $status . "] no id: " . $id);
 

@@ -7,6 +7,7 @@
 
 session_start();
 require 'db.php'; // Conexão com o banco de dados
+require_once __DIR__ . '/utils/logger.php';
 
 $erro = '';
 $sucesso = '';
@@ -18,6 +19,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['salvar_nova_senha']))
         $hash = password_hash($novaSenha, PASSWORD_DEFAULT);
         $stmt = $pdo->prepare("UPDATE usuarios SET senha = ?, precisa_redefinir = 0 WHERE usuario = ?");
         $stmt->execute([$hash, $_SESSION['usuario']]);
+        registrar_log($_SESSION['usuario'], 'Redefiniu Senha', 'login.php', 'Redefinição obrigatória');
         $_SESSION['sucesso_redefinicao'] = "Senha alterada com sucesso! Faça login com sua nova senha.";
         session_destroy();
         header('Location: login.php');
@@ -37,6 +39,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['trocar_senha'])) {
         $hash = password_hash($novaSenhaTroca, PASSWORD_DEFAULT);
         $stmt = $pdo->prepare("UPDATE usuarios SET senha = ? WHERE usuario = ?");
         $stmt->execute([$hash, $usuarioTroca]);
+        registrar_log($usuarioTroca, 'Trocou Senha', 'login.php', 'Troca voluntária');
         $sucesso = "Senha alterada com sucesso! Faça login com sua nova senha.";
     } else {
         $erro = "Usuário ou senha atual incorretos.";
@@ -63,6 +66,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['registrar'])) {
             ':departamento' => $departamento,
             ':tipo' => $tipo
         ]);
+        registrar_log('Sistema/Registro', 'Cadastrou Usuário', 'login.php', "Novo usuário: $novo_usuario");
         $sucesso = "Usuário registrado com sucesso!";
     }
 }
@@ -91,6 +95,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && !isset($_POST['registrar']) && !isse
     }
 
     if ($loginValido) {
+        registrar_log($user['usuario'], 'Login com Sucesso', 'login.php');
+
         $_SESSION['usuario'] = $user['usuario'];
         $_SESSION['departamento'] = $user['departamento'];
         $_SESSION['tipoUsuario'] = $user['tipo'];
@@ -109,6 +115,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && !isset($_POST['registrar']) && !isse
             exit;
         }
     } else {
+        registrar_log($usuario, 'Falha de Login', 'login.php', 'Tentou acessar com senha incorreta ou usuário inexistente');
         $erro = "Credenciais inválidas. Tente novamente.";
     }
 }

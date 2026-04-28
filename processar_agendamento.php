@@ -6,6 +6,8 @@
 
 session_start();
 require 'db.php'; // Conexão com o banco de dados
+require_once __DIR__ . '/utils/logger.php';
+$user = $_SESSION['usuario'] ?? 'Sistema/Publico';
 
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
@@ -276,6 +278,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             }
         }
     }
+    
+    registrar_log(
+        $user, 
+        'Criou Agendamento', 
+        'processar_agendamento.php', 
+        "Novo Agendamento ID: $agendamento_id | Placa: $placa | Fornecedor: $fornecedor"
+    );
 
     echo json_encode(['success' => true, 'message' => 'Agendamento realizado com sucesso!']);
     exit();

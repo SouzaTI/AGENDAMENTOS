@@ -24,7 +24,10 @@
  */
 
 require 'db.php';
+require_once __DIR__ . '/utils/logger.php';
 session_start();
+
+$user = $_SESSION['usuario'] ?? 'desconhecido';
 
 header('Content-Type: application/json');
 
@@ -102,6 +105,13 @@ if ($ok) {
             $stmt->execute([$tempo, $agendamento_id]);
         }
     }
+
+    registrar_log(
+        $user, 
+        'Registrou Conferência', 
+        'registrar_conferencia.php', 
+        "Agendamento ID: $agendamento_id | Conferente: $nome_conferente | Paletes: $paletes_recebidos | Volumes: $volumes_recebidos"
+    );
 
     echo json_encode(['success' => true]);
 } else {

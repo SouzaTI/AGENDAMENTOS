@@ -24,6 +24,11 @@
 
 header('Content-Type: application/json');
 require 'db.php';
+require_once __DIR__ . '/utils/logger.php'; 
+session_start(); 
+$user = $_SESSION['usuario'] ?? 'desconhecido'; 
+
+$id = $_POST['id'] ?? null;
 
 $id = $_POST['id'] ?? null;
 if (!$id) {
@@ -44,6 +49,7 @@ if (isset($_POST['excluir']) && $_POST['excluir'] == "true") {
     // Agora exclui o agendamento
     $stmt = $pdo->prepare("DELETE FROM agendamentos WHERE id = :id");
     if ($stmt->execute([':id' => $id])) {
+        registrar_log($user, 'Excluiu Agendamento', 'editar-agendamento.php', "Agendamento ID: $id excluído");
         echo json_encode(['success' => true]);
     } else {
         echo json_encode(['success' => false, 'message' => 'Erro ao excluir']);
@@ -117,6 +123,7 @@ if ($stmt->execute([
     ':senha' => $novaSenha,
     ':id' => $id
 ])) {
+    registrar_log($user, 'Editou Agendamento', 'editar-agendamento.php', "Agendamento ID: $id editado. Placa: $placa");
     echo json_encode(['success' => true, 'message' => 'Agendamento atualizado']);
 } else {
     http_response_code(500);

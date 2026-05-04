@@ -851,7 +851,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 <?= ($agendamento['status'] == 'Recebendo' || $agendamento['status'] == 'Recebido') ? 'disabled' : '' ?>>
                 <option value="Liberado" <?= $agendamento['status'] == 'Liberado' ? 'selected' : '' ?> disabled>Liberado</option>
                 <option value="Em Analise" <?= $agendamento['status'] == 'Em Analise' ? 'selected' : '' ?> disabled>Em Analise</option>
-                <option value="Recebendo" <?= $agendamento['status'] == 'Recebendo' ? 'selected' : '' ?>>Recebendo</option>
+                <option value="Recebendo" <?= $agendamento['status'] == 'Recebendo' ? 'selected' : '' ?> <?= $agendamento['status'] != 'Liberado' ? 'disabled' : '' ?>>Recebendo</option>
                 <option value="Recebido" <?= $agendamento['status'] == 'Recebido' ? 'selected' : '' ?> disabled>Recebido</option>
                 <option value="Chegada NF" <?= $agendamento['status'] == 'Chegada NF' ? 'selected' : '' ?> disabled>Chegada NF</option>
                 <option value="Recusado" <?= $agendamento['status'] == 'Recusado' ? 'selected' : '' ?> disabled>Recusado</option>

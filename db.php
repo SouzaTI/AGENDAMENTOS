@@ -1,31 +1,39 @@
 <?php
 /**
  * db.php
- * Conexão PDO segura usando variáveis de ambiente (.env)
+ * Conexão PDO segura usando variáveis de ambiente (.env) na mesma raiz
  */
 
-// Pega o caminho absoluto da pasta onde o db.php está
+// Como estão na mesma pasta, o __DIR__ mata o problema do caminho direto!
 $envPath = __DIR__ . '/.env';
 
-// Verifica se o arquivo .env existe e lê as variáveis
 if (file_exists($envPath)) {
     $envVariables = parse_ini_file($envPath);
     
-    // Pega estritamente o que está no arquivo .env (sem fallbacks/plano B)
     $host     = $envVariables['DB_HOST'];
     $dbname   = $envVariables['DB_NAME'];
     $username = $envVariables['DB_USER'];
     $password = $envVariables['DB_PASS'];
 } else {
-    // Se o arquivo não existir, mata a execução na hora
-    die("Erro crítico: Arquivo .env não encontrado. Crie o arquivo na raiz do projeto.");
+    die("Erro crítico: Arquivo .env não encontrado na raiz do projeto.");
 }
 
 try {
-    $pdo = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
+    // Tratamento cirúrgico: se tiver a porta (:3307) no HOST, a gente separa pro PDO
+    if (strpos($host, ':') !== false) {
+        list($realHost, $port) = explode(':', $host);
+        $dsn = "mysql:host=$realHost;port=$port;dbname=$dbname;charset=utf8mb4";
+    } else {
+        $dsn = "mysql:host=$host;dbname=$dbname;charset=utf8mb4";
+    }
+
+    $pdo = new PDO($dsn, $username, $password);
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    
+    // Se quiser testar se conectou mesmo, pode descomentar a linha abaixo:
+    // echo "Conexão estabelecida com sucesso no banco: " . $dbname;
+
 } catch (PDOException $e) {
-    // Falha rápida se as credenciais do .env estiverem erradas
     die("Erro ao conectar ao banco de dados: " . $e->getMessage());
 }
 ?>

@@ -26,6 +26,12 @@ header('Content-Type: application/json');
 require 'db.php';
 require_once __DIR__ . '/utils/logger.php'; 
 session_start(); 
+
+// BLOQUEIO TEMPORÁRIO DE SEGURANÇA - MITIGAÇÃO DE IDOR
+http_response_code(403);
+echo json_encode(['success' => false, 'message' => 'A edição de agendamentos está temporariamente desabilitada para manutenção de segurança.']);
+exit;
+
 $user = $_SESSION['usuario'] ?? 'desconhecido'; 
 
 $id = $_POST['id'] ?? null;
